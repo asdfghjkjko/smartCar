@@ -31,3 +31,10 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+Intelligent Communication System: Enables the vehicle to communicate with other vehicles and infrastructure, improving traffic flow and safety.
+
+Automated Parking System: Capable of autonomously finding parking spaces and parking the vehicle.
+
+Remote Control: Allows remote control of the vehicle via a mobile app, such as unlocking, preheating, or charging.
+
+Vehicle Health Monitoring: Real-time monitoring of the vehicle's status, providing reminders for regular maintenance and servicing.
